@@ -1,0 +1,106 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+.header {
+    background-color: #2e3135;
+    color: #ffffff;
+    size: 100px;
+}
+
+.contact, .social, .profile, .education, .experience, .certificates, .references {
+    background-color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.linkedin-img {
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px 0;
+    size: 100px;
+    left: 50%;
+    top: 50%;
+}
+
+.face-img {
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px 0;
+    size: 10px;
+    left: 50%;
+    top: 50%;
+}
+
+a {
+    color: #3498db;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #2980b9;
+}
+
+.profile-img {
+    width: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+    size: 30px;
+    left: 50%;
+    top: 50%;
+}
+
+.instagram-img {
+    width: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+    size: 30px;
+    left: 50%;
+    top: 50%;
+}
+
+.github-img {
+    width: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+    size: 30px;
+    left: 50%;
+    top: 50%;
+}
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+}
+
+.header {
+    border-bottom: 1px solid #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.contact, .social, .profile, .education, .experience, .certificates, .references {
+    margin: 20px 0;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+.contact p, .social p, .profile p {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+.references div, .certificates div, .experience div {
+    margin-bottom: 20px;
+}
